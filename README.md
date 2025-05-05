@@ -33,7 +33,7 @@ Feel free to reach out to me for collaboration or inquiries:
 
 
 📫 **Email**: francisco.iturralde@uprise.hr
-📫 **Personal Account**:
+📫 **Personal Account**: @FranItu
 
 <!---
 franciuprise/franciuprise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
