@@ -14,13 +14,17 @@
 ## Areas of Expertise
 
 🤓 **Mathematical Optimization**: Linear programming, nonlinear optimization, integer programming, and combinatorial optimization.
+
 🤓 **Algorithm Development**: Designing and implementing algorithms for optimization problems.
+
 🤓 **Data Analysis**: Statistical analysis, data modeling, and predictive analytics.
+
 🤓 **Machine Learning**: Applying optimization techniques to enhance machine learning models.
 
 ## Current Goals
 
 🌱 Stochastic Model Optimization
+
 Stochastic model optimization involves optimizing systems influenced by randomness and uncertainty. Key techniques include Monte Carlo simulation, stochastic gradient descent (SGD), and dynamic programming. Applications range from finance (portfolio optimization) to supply chain management (inventory control) and machine learning (reinforcement learning).
 
 ## Projects
@@ -33,6 +37,7 @@ Feel free to reach out to me for collaboration or inquiries:
 
 
 📫 **Email**: francisco.iturralde@uprise.hr
+
 📫 **Personal Account**: @FranItu
 
 <!---
